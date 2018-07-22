@@ -23,5 +23,5 @@ n_imdb : Normalized imdb score
  
  Evaluation Metric: RMSE
  
- Submission file format : Please download the format file and sumit the data in csv format.
+ Submission file format : Please download the submission file format and submit the data in that format only.
  
